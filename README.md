@@ -10,5 +10,10 @@ It consists the below content: </br>
 -- **Multihead Attention**</br>
 -- **Transformer Block**</br>
 -- **Positional Encoding**</br>
+-- **Mixture Of Experts**</br>
 -- **Layer Normalization** and</br>
 -- **Shortcut Connection**
+
+
+
+**DeepSeek Implementation:**
